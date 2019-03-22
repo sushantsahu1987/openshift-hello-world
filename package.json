@@ -1,0 +1,26 @@
+{
+  "name": "openshift-hello-world",
+  "version": "1.0.0",
+  "description": "An openshift based hello world nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantsahu1987/openshift-hello-world.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "ssahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantsahu1987/openshift-hello-world/issues"
+  },
+  "homepage": "https://github.com/sushantsahu1987/openshift-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
